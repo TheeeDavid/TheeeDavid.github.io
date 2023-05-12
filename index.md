@@ -4,7 +4,7 @@ This is my home page! My name is David Marquez and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/TheeeDavid.
+My GitHub page is http://github.com/TheeeDavid
 
 ### CPSC 120
 
